@@ -5,3 +5,23 @@
     display: flex;
     min-width: 400px;
 }
+footer{
+    position: fixed;
+    
+    width: 100%;
+    bottom: 0;
+    height: 10vh;
+}
+#novaTarefa{
+    margin-left: 310px;
+
+}
+.icon:active{
+    box-shadow: 0 3px 0 #00823F;   
+}
+.icon{
+    width: 50px;
+}
+.teste{
+    bottom: 8px;
+}
